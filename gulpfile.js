@@ -1,7 +1,7 @@
 //Packages
 const {src, dest, watch, series, parallel} = require("gulp")
-const concat = require("gulp-concat");                  //Konkatinerar/sammanslåt filer
-const uglify = require("gulp-uglify-es").default;          // Minifierar javascript-filer
+const concat = require("gulp-concat");                  //Konkatinerar/sammanslår filer
+const uglify = require("gulp-uglify-es").default;       // Minifierar javascript-filer
 const cleanCSS = require("gulp-clean-css");             // Minifierar css-filer
 const imagemin = require('gulp-imagemin')               // Minifierar images
 
