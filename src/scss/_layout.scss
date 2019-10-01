@@ -1,0 +1,21 @@
+//Layout
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: $font;
+    margin: 0;
+}
+
+section {
+    margin: 55px 0;
+}
+article {
+    margin:25px 0;
+}
+
+
+.navbg {
+    background-color: rgb(218, 63, 63);
+}

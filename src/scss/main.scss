@@ -1,0 +1,8 @@
+//Import all scss-files
+@import 'base';
+@import 'layout';
+@import 'style';
+
+h1 {
+    color: $color_red;
+}

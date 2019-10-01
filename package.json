@@ -1,0 +1,20 @@
+{
+  "name": "gulp_and_sass",
+  "version": "1.0.0",
+  "description": "gulp, sass, bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martina Jansson",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify-es": "^1.0.4",
+    "gulp-imagemin": "^6.1.0",
+    "browser-sync": "^2.26.7"
+  }
+}
